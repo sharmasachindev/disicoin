@@ -1,0 +1,42 @@
+<!-- sp:pagelayer/pl_post_props {"post_title":"Footer","post_status":"publish","post_date":"2022-02-18 13:29:14","post_author":"1","post_name":"footer","post_excerpt":"","post_password":"","featured_image":"","comment_status":"","ping_status":"","post_sticky":"","post_parent":0,"menu_order":0,"post_category":"","post_tags":"","pagelayer-id":"tpf7331"} /-->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"ele_padding":["50px","0px","30px","0px"],"ele_bg_type":"color","ele_bg_gradient":"150,#44d3f6,23,#72e584,45,#2ca4eb,100","ele_bg_color":"#0a1b65ff","pagelayer-id":"sl23716"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":15,"overlay_hover_delay":400,"col":4,"pagelayer-id":"vwo4490"} -->
+<!-- sp:pagelayer/pl_inner_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"pagelayer-id":"orl6901"} -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":3,"pagelayer-id":"cyz6371"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_title_state":"normal","text-align":"left","site_title_style":["","35","","","","","Solid","","","",""],"title_padding":["0","0","0","0"],"logo_img_size":"full","align":"left","container_align":"left","vertical_align":"middle","title_color":"#fc4a38ff","pagelayer-id":"koa8517"} /-->
+<!-- sp:pagelayer/pl_heading {"text":"\u003cP\u003eIt is a long established fact that a reader will be distracted by the readable content.\u003c\/P\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"vmp2252"} --><P>It is a long established fact that a reader will be distracted by the readable content.</P><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_social_grp {"align":"left","group_layout":"pagelayer-btn-grp-horizontal","icon_spacing":10,"icon_size":20,"color_scheme":"","icon_color":"#ffffffff","icon_color_hover":"#fc4a38ff","social_hover_delay":200,"social_hover":"hover","anim_hover":"float","pagelayer-id":"6vi1050"} -->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-facebook-f","social_url":"https:\/\/facebook.com\/sitepad","pagelayer-id":"ntr7639"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-linkedin-in","social_url":"https:\/\/linkedin.com\/sitepad","pagelayer-id":"wqv8164"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-twitter","social_url":"https:\/\/twitter.com\/sitepad","pagelayer-id":"cje4245"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-instagram","social_url":"https:\/\/instagram.com\/sitepad","pagelayer-id":"9x57948"} /-->
+<!-- /sp:pagelayer/pl_social_grp -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":3,"pagelayer-id":"frm7520"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch4\u003eResources\u003c\/h4\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"emt1835"} --><h4>Resources</h4><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":10,"list_text_state":"normal","item_indent":10,"list_icon_state":"normal","icon_color":"#0986c0","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":3,"list_color":"#ffffffff","list_color_hover":"#fc4a38ff","list_hover_delay":800,"side_spacing_mobile":0,"item_indent_mobile":0,"item_indent_tablet":0,"pagelayer-id":"uc39653"} -->
+<!-- sp:pagelayer/pl_list_item {"item":"WordPress Hosting","show_icon":"","icon":"fas fa-star","item_url":"#","pagelayer-id":"cmn7710"} -->WordPress Hosting<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Cloud Hosting","show_icon":"","icon":"fas fa-star","item_url":"#","pagelayer-id":"s474424"} -->Cloud Hosting<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Shared Hosting","show_icon":"","icon":"fas fa-star","item_url":"#","pagelayer-id":"qke4557"} -->Shared Hosting<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"VPS Hosting","show_icon":"","icon":"fas fa-star","item_url":"#","pagelayer-id":"77j19"} -->VPS Hosting<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Dedicated Hosting","show_icon":"","icon":"fas fa-star","item_url":"#","pagelayer-id":"gky9141"} -->Dedicated Hosting<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":"2","pagelayer-id":"ohp2384"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch4\u003eUseful Links\u003c\/h4\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"f7i938"} --><h4>Useful Links</h4><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_wp_menu {"nav_list":"5648","align":"left","layout":"vertical","pointer":"underline","m_animation":"none","list_style":"none","submenu_ind":"caret-down","menu_bg_color_hover":"","menu_bg_color_active":"","horizontal_padding":0,"vertical_padding":5,"submenu_align":"left","submenu_color":"#ffffff","submenu_bg_color":"#0986c0","submenu_horizontal_padding":10,"submenu_vertical_padding":10,"submenu_left_margin":10,"menu_toggle_icon":"fas fa-bars","menu_toggle_align":"center","menu_toggle_bg_color":"#0986c050","menu_toggle_size":30,"slide_style":"pagelayer-wp_menu-right","menu_width":30,"menu_items_width":100,"menu_posy":8,"menu_bg":"color","close_size":25,"close_padding":8,"close_color":"#ffffff68","close_bg_color":"#00000036","close_hover_delay":600,"close_color_hover":"#ffffff","close_bg_color_hover":"#000000","submenu_position":"left","menu_items_bg":"#ffffff","menu_color":"#ffffffff","menu_colors":"active","menu_color_hover":"#fc4a38ff","menu_color_active":"#fc4a38ff","ele_margin":["-8px","0px","0px","0px"],"pagelayer-id":"iuc7683"} /-->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"widget_space":15,"overlay_hover_delay":400,"col":3,"pagelayer-id":"ehs6054"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch4\u003eContact Us\u003c\/h4\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"lgj6026"} --><h4>Contact Us</h4><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_email {"icon":"fas fa-envelope","space":10,"icon_size":20,"icon_color":"#fc4a38ff","color":"#fefefeff","typography":["","18","","","","","Solid","","","",""],"pagelayer-id":"wex9297"} /-->
+<!-- sp:pagelayer/pl_address {"icon":"fas fa-map-marker-alt","space":15,"icon_size":20,"icon_color":"#fc4a38ff","color":"#ffffffff","pagelayer-id":"dxn5374"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"fas fa-phone-alt","color":"#ffffffff","space":10,"icon_size":20,"icon_color":"#fc4a38ff","pagelayer-id":"8mj4342"} /-->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- /sp:pagelayer/pl_inner_row -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"ele_bg_type":"color","ele_bg_color":"#0d2352ff","ele_padding":["20px","0px","20px","0px"],"border_type":"solid","border_width":["1px","0px","0px","0px"],"border_color":"#bab6b6b8","pagelayer-id":"fbp269"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":15,"overlay_hover_delay":400,"pagelayer-id":"r6s9721"} -->
+<!-- sp:pagelayer/pl_copyright {"copyright_text":"\u00a9 2021 AppLandz Theme. All right Reserved","color":"#ffffffff","pagelayer-id":"yjq7022"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
